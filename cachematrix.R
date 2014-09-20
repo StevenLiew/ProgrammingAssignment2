@@ -1,5 +1,9 @@
-## Put comments here that give an overall description of what your
-## functions do
+###################################################################
+## Function: Caching mean of matrices
+## Module: R Programming Module 2 Assignment 2
+## Author: Steven Liew
+## 
+###################################################################
 
 ## Write a short comment describing this function
 
